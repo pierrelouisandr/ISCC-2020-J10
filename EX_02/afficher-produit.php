@@ -29,5 +29,6 @@ foreach ($users as $user)
  {
    echo "<ul><li>";
    echo $user ['nom'];
-   echo "</li></ul>";}
+   echo "</li></ul>";
+}
 ?>
